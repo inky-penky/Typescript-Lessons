@@ -12,4 +12,8 @@ Typescript lessons
 
 <!-- Day 2  -->
 
-1. 
+1. Got introduced to functions in typescript
+2. learnt about promises and rest parameter
+
+<!-- Day_3 -->
+
